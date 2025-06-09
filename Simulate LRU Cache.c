@@ -1,4 +1,3 @@
-//read testcase74.txt
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
